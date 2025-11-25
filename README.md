@@ -9,7 +9,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=200&section=header&text=SHOAIB%20AKHTAR&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Solutions%20One%20Project%20at%20a%20Time&descAlignY=60&descSize=20" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shoaib-Akhtarr/Shoaib-Akhtarr/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 </div>
 
 ---
