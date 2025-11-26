@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Learner;Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/badge/-Shoaib_Akhtar-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
+<!-- <img src="https://komarev.com/badge/-Shoaib_Akhtar-blue?style=for-the-badge?&logo=github&logoColor=white&labelColor=101010"/> -->
 
 </div>
 
@@ -171,12 +171,12 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shoaib-Akhtarr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib-Akhtarr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
 
-</div>
+</div> -->
 
 <div align="center">
   
