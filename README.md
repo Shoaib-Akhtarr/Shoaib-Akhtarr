@@ -120,7 +120,7 @@ me.say_hi()
 - Real-time predictions
 - Interactive UI with charts
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-Akhtarr)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-Akhtarr/Sentiment-Analysis-Full-Stack)
 
 </td>
 <td width="50%">
