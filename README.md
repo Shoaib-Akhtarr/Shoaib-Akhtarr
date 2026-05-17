@@ -35,7 +35,7 @@ me.say_hi()
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎯 Current Focus
+### Current Focus
 
 - 🔥 Building **NLP** and **Deep Learning** projects
 - 📊 Mastering **ML pipelines** with scikit-learn
@@ -43,7 +43,7 @@ me.say_hi()
 - 🌐 Creating **Full-Stack AI apps** (React + Python)
 - 📚 Learning **PyTorch** and **TensorFlow**
 
-### 💡 What I'm Working On
+### What I'm Working On
 
 - 🎭 **Sentiment Analysis** with Deep Learning
 - 📝 **Text Classification** using Transformers
@@ -52,7 +52,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -90,11 +90,11 @@ me.say_hi()
 
 ---
 
-## 🎯 Areas of Expertise
+##  Areas of Expertise
 
 <div align="center">
 
-| 🤖 Machine Learning | 🧠 Deep Learning | 📊 Data Science | 💬 NLP |
+|  Machine Learning |  Deep Learning | Data Science |  NLP |
 |:------------------:|:---------------:|:--------------:|:------:|
 | Classification | Neural Networks | Data Analysis | Text Processing |
 | Regression | CNNs & RNNs | Visualization | Sentiment Analysis |
@@ -105,7 +105,7 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -113,7 +113,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🎭 Sentiment Analysis Full Stack
+###  Sentiment Analysis Full Stack
 **Complete ML-powered sentiment analyzer**
 - React frontend with Vite
 - Python Flask/FastAPI backend
@@ -125,7 +125,7 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 📝 NLP Text Processing Pipeline
+###  NLP Text Processing Pipeline
 **Advanced text preprocessing toolkit**
 - TF-IDF vectorization
 - Word2Vec embeddings
@@ -140,7 +140,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🧪 ML Models Collection
+###  ML Models Collection
 **Comprehensive ML implementations**
 - Titanic, Iris, Spam datasets
 - Multiple algorithms compared
@@ -152,7 +152,7 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 🤖 AI Detection & LLM Lab
+###  AI Detection & LLM Lab
 **Experimental AI projects**
 - LLM integration experiments
 - Simple AI agents
@@ -169,7 +169,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <!-- <div align="center">
   
@@ -205,7 +205,7 @@ me.say_hi()
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -222,11 +222,11 @@ me.say_hi()
 
 <div align="center">
 
-### 💭 Random Dev Quote
+###  Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Here's a Joke for You!
+###  Here's a Joke for You!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
@@ -236,8 +236,8 @@ me.say_hi()
 
 <div align="center">
 
-### ⚡ Fun Fact
-**I debug code faster than I debug my life! 😄**
+###  Fun Fact
+**I debug code faster than I debug my life! **
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling"/>
 
