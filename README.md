@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Shoaib Akhtar
+# Shoaib Akhtar
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Learner;Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class Shoaib:
