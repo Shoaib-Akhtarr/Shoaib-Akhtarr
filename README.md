@@ -1,96 +1,97 @@
 <div align="center">
 
-# Shoaib Akhtar
+# Hi, I'm Shoaib Akhtar
 
-**Machine Learning & Python Developer**  
-*Building production-ready ML systems, NLP pipelines, and intelligent web applications.*
+### Python Developer · AI & Data Science Learner
 
-[![Email](https://img.shields.io/badge/Email-onlyshoaib158%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onlyshoaib158@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Shoaib--Akhtarr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shoaib-Akhtarr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoaib%20Akhtar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+I build practical projects in machine learning, natural language processing, and full-stack AI.
+
+**Based in Pakistan** · **Currently exploring NLP, deep learning, and generative AI**
+
+[Email me](mailto:onlyshoaib158@gmail.com) · [GitHub](https://github.com/Shoaib-Akhtar)
 
 </div>
 
 ---
 
-### 👨‍💻 Overview
+## About me
 
-I am a developer focused on Machine Learning, NLP, and LLM-powered systems. I build end-to-end applications: from data ingestion and model experimentation to backend deployment with FastAPI/Flask and modern web interfaces.
+I'm an AI and Data Science learner who enjoys turning concepts into useful software. My current focus is building with Python, experimenting with machine-learning and NLP workflows, and developing full-stack applications that bring AI features to life.
 
-- 🔭 **Current Focus:** Fine-tuning Transformer models, building RAG architectures, and optimizing inference pipelines.
-- ⚙️ **Engineering Principles:** Clean code, reproducible ML workflows, and low-latency REST endpoints.
-- 💬 **Ask me about:** Python, Scikit-Learn, PyTorch, Hugging Face, NLP preprocessing, and FastAPI.
+- Building NLP and deep-learning projects
+
+- Practicing machine-learning pipelines with scikit-learn
+
+- Exploring LLMs, generative AI, and AI agents
+
+- Developing full-stack applications with React and Python
+
+- Learning PyTorch and TensorFlow
+
+## Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+
+**AI, machine learning & data**
+
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**NLP**
+
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+![Hugging%20Face%20Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111111)
+
+**Web development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222222?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+## Featured projects
+
+### Sentiment Analysis Full Stack
+
+A full-stack sentiment analyzer with a React frontend and Python backend, featuring real-time predictions and an interactive interface.
+
+### NLP Text Processing Pipeline
+
+A text-processing toolkit exploring TF-IDF vectorization, Word2Vec embeddings, stemming, lemmatization, and other NLP techniques.
+
+### ML Models Collection
+
+Machine-learning implementations and experiments using datasets such as Titanic, Iris, and spam classification.
+
+### AI Detection & LLM Lab
+
+An experimental space for LLM integrations, lightweight AI agents, prompt engineering, and model fine-tuning.
+
+## Areas of interest
+
+`Machine Learning` · `Deep Learning` · `Data Science` · `Natural Language Processing` · `Generative AI` · `Full-Stack AI`
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, SQL, Bash |
-| **AI / Machine Learning** | PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas |
-| **NLP & LLMs** | Hugging Face Transformers, spaCy, NLTK, LangChain, Embeddings |
-| **Backend & APIs** | FastAPI, Flask, REST APIs, Pydantic |
-| **Frontend** | React, Vite, HTML5/CSS3 |
-| **Tools & Environment** | Git, GitHub, Linux, Docker, Jupyter, VS Code |
+### Let's connect
 
----
+For collaboration, questions, or project ideas, [send me an email](mailto:onlyshoaib158@gmail.com).
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 1. [Sentiment Analysis Full-Stack](https://github.com/Shoaib-Akhtarr/Sentiment-Analysis-Full-Stack)
-Full-stack sentiment classifier providing real-time text analysis with confidence scores and visualization.
-- **Backend:** Python, FastAPI / Flask, Transformer models
-- **Frontend:** React, Vite, Tailwind CSS
-- **Features:** Sub-100ms inference, interactive analytics dashboard, and REST API endpoints.
-
-[**View Repository →**](https://github.com/Shoaib-Akhtarr/Sentiment-Analysis-Full-Stack)
-
-</td>
-<td width="50%" valign="top">
-
-### 2. [NLP Text Processing Pipeline](https://github.com/Shoaib-Akhtarr)
-Modular NLP toolkit for preparing and transforming unstructured text for deep learning architectures.
-- **Stack:** Python, NLTK, spaCy, Scikit-Learn
-- **Features:** Word2Vec embeddings, TF-IDF vectorizers, tokenization, lemmatization, and custom clean pipelines.
-
-[**View Repository →**](https://github.com/Shoaib-Akhtarr)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 3. [AI & LLM Experimentation Lab](https://github.com/Shoaib-Akhtarr)
-Research workspace exploring agentic workflows, prompt evaluation, and retrieval-augmented generation (RAG).
-- **Stack:** Python, LangChain, Hugging Face, Vector DBs
-- **Features:** Semantic search, document question-answering, and agent tool execution.
-
-[**View Repository →**](https://github.com/Shoaib-Akhtarr)
-
-</td>
-<td width="50%" valign="top">
-
-### 4. [ML Algorithms from Scratch](https://github.com/Shoaib-Akhtarr)
-Pure-Python and NumPy implementations of classical machine learning algorithms.
-- **Stack:** Python, NumPy, Matplotlib
-- **Algorithms:** Linear & Logistic Regression, Decision Trees, K-Means, and Gradient Descent from first principles.
-
-[**View Repository →**](https://github.com/Shoaib-Akhtarr)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📬 Get in Touch
-
-I'm always open to discussing ML engineering roles, open-source projects, and technical collaborations.
-
-- **Email:** [onlyshoaib158@gmail.com](mailto:onlyshoaib158@gmail.com)
-- **GitHub:** [@Shoaib-Akhtarr](https://github.com/Shoaib-Akhtarr)
+</div>
