@@ -2,68 +2,80 @@
 
 # Shoaib Akhtar
 
-### Python Developer · AI & Data Science Learner
+### AI Engineer · Multi-Agent Systems · Production RAG & LLM Architectures
 
-Building practical work in machine learning, NLP, and full-stack AI.
+[![Email](https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyshoaib158@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-akhtar-133103300/)
+[![GitHub](https://img.shields.io/badge/GitHub-Shoaib--Akhtarr-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib-Akhtarr)
+![Location](https://img.shields.io/badge/Location-Gujrat,%20Pakistan-238636?style=for-the-badge)
 
-[![Email](https://img.shields.io/badge/Email-Contact-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:onlyshoaib158@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Shoaib--Akhtar-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Shoaib-Akhtar)
-![Location](https://img.shields.io/badge/Location-Pakistan-238636?style=flat-square)
+<p align="center">
+  <b>Designing autonomous multi-agent pipelines, hybrid dense-sparse RAG systems, and production AI services with deterministic grounding guardrails.</b>
+</p>
 
 </div>
 
 ---
 
-## About
+### 🚀 Core Competencies & Architecture Focus
 
-I'm an AI and Data Science learner focused on applying Python to machine-learning and language-processing problems. I enjoy building end-to-end projects—from data and model experiments to usable web interfaces—and am currently deepening my knowledge of NLP, deep learning, and generative AI.
+- **Agentic AI & Orchestration:** Cyclic state machines, persistent memory, supervisor-worker topologies, self-correction & reflection graphs using **LangGraph**, **CrewAI**, and **LangChain**.
+- **Advanced Retrieval (RAG):** Hybrid retrieval (Dense vector embeddings + Sparse BM25Okapi + Reciprocal Rank Fusion), context-aware hierarchical chunking, vector stores (**Qdrant**, **ChromaDB**, **FAISS**).
+- **Factual Grounding & Guardrails:** Eliminating LLM hallucinations via automated metric cross-referencing and deterministic schema enforcement.
+- **Microservices & MLOps:** High-throughput asynchronous APIs with **FastAPI**, containerized runtimes with **Docker / Docker Compose**, and CI/CD automation via **GitHub Actions**.
 
-**Currently focused on:** NLP and deep-learning projects · ML pipelines with scikit-learn · LLM and generative-AI experiments · full-stack AI applications with React and Python
+---
 
-## Selected work
+### 🛠️ Tech Stack & Tooling
 
-| Project | What it does | Built with / includes |
-| --- | --- | --- |
-| **Sentiment Analysis Full Stack** | Full-stack sentiment analyzer with real-time predictions and an interactive chart-based interface. | React, Vite, Python, Flask / FastAPI |
-| **NLP Text Processing Pipeline** | Text preprocessing and representation experiments, including TF-IDF and Word2Vec. | Python, NLP, stemming, lemmatization |
-| **ML Models Collection** | Machine-learning implementations and comparisons using Titanic, Iris, and spam datasets. | Python, scikit-learn, Jupyter |
-| **AI Detection & LLM Lab** | Experiments with LLM integration, simple agents, prompt engineering, and model fine-tuning. | Python, LLMs, generative AI |
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **Languages** | `Python (Expert)`, `TypeScript / JavaScript`, `SQL`, `Bash`, `C++` |
+| **Agentic Frameworks** | `LangGraph`, `LangChain`, `CrewAI`, `AutoGen` |
+| **Vector DBs & Search** | `Qdrant`, `ChromaDB`, `FAISS`, `BM25Okapi`, `Reciprocal Rank Fusion (RRF)` |
+| **ML & Deep Learning** | `PyTorch`, `Hugging Face Transformers`, `Scikit-learn`, `PEFT / LoRA` |
+| **API & Backend** | `FastAPI`, `Pydantic v2`, `Flask`, `PostgreSQL`, `Prisma ORM` |
+| **DevOps & MLOps** | `Docker`, `Docker Compose`, `GitHub Actions (CI/CD)`, `Linux`, `Git` |
 
-## Tech stack
+---
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111) |
-| **ML & deep learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Data & NLP** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat-square) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
-| **Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-222?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+### 🌟 Featured Systems & Repositories
 
-## Areas of interest
+#### 1. 🤖 [Enterprise Multi-Agent AI Platform](https://github.com/Shoaib-Akhtarr/enterprise-multi-agent-platform)
+> *Production-ready multi-agent orchestration architecture built with LangGraph, FastAPI, Docker, and Qdrant.*
+- **Key Capabilities:** Supervisor-driven task routing, domain agents (Operations, Finance, Customer Service), cyclic self-correction graphs, and source-attributed RAG.
+- **Stack:** `Python`, `LangGraph`, `FastAPI`, `Qdrant`, `Docker`, `GitHub Actions`
 
-| Machine learning | Deep learning | Data science | NLP |
-| --- | --- | --- | --- |
-| Classification, regression, clustering, model evaluation | Neural networks, CNNs & RNNs, transfer learning | Data analysis, visualization, feature engineering, data cleaning | Text processing, sentiment analysis, named entity recognition, language models |
+#### 2. 🎯 [Hybrid RAG Outreach Studio & Benchmark](https://github.com/Shoaib-Akhtarr/hybrid-rag-outreach-studio)
+> *B2B Lead personalization engine with Hybrid Dense + Sparse RAG and deterministic factual grounding.*
+- **Key Capabilities:** Combines `all-MiniLM-L6-v2` dense vectors with `BM25Okapi` sparse search via Reciprocal Rank Fusion ($k=60$). Achieves **100% Hit@1 (MRR: 1.000)** at **1.28ms retrieval latency** with zero numerical hallucinations.
+- **Stack:** `FastAPI`, `PyTorch / Transformers`, `Rank-BM25`, `Docker`, `pytest`
 
-## GitHub activity
+#### 3. 🚀 [Autonomous Multi-Platform Job Application Suite](https://github.com/Shoaib-Akhtarr/Linkdin-Automator)
+> *Autonomous browser engine and AI-driven CV optimization pipeline with stealth anti-bot mechanisms.*
+- **Key Capabilities:** Dual-gateway automation (LinkedIn Easy Apply & External ATS portals), Chrome DevTools Protocol (CDP), local AI keyword synthesizer and dynamic PDF rendering.
+- **Stack:** `Playwright`, `Chrome DevTools Protocol`, `Node.js`, `Electron`, `LLM APIs`
+
+#### 4. 🎙️ [AI Real-Time Meeting Copilot](https://github.com/Shoaib-Akhtarr/ai-meeting-copilot)
+> *Low-latency meeting assistant with continuous audio capture, streaming Groq LLM inference, and stealth HUD.*
+- **Key Capabilities:** Real-time audio stream listener, instant query answering, unobtrusive transparency overlay.
+- **Stack:** `Python`, `Groq API`, `PyAudio`, `Tkinter / Stealth GUI`
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Shoaib-Akhtar"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Shoaib-Akhtar&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Shoaib Akhtar's GitHub stats" /></a>
-<a href="https://github.com/Shoaib-Akhtar"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shoaib-Akhtar&theme=github-dark-blue&hide_border=true" alt="Shoaib Akhtar's GitHub streak" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shoaib-Akhtarr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Shoaib Akhtar's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shoaib-Akhtarr&theme=github-dark-blue&hide_border=true" alt="Shoaib Akhtar's GitHub streak" />
 
 </div>
 
-## Connect
+---
 
+### 📬 Get In Touch
+
+- **LinkedIn:** [linkedin.com/in/shoaib-akhtar-133103300](https://www.linkedin.com/in/shoaib-akhtar-133103300/)
 - **Email:** [onlyshoaib158@gmail.com](mailto:onlyshoaib158@gmail.com)
-
-- **GitHub:** [github.com/Shoaib-Akhtar](https://github.com/Shoaib-Akhtar)
-
----
-
-<div align="center">
-
-*Thanks for stopping by. Feel free to explore my repositories.*
-
-</div>
+- **Portfolio:** [shoaib-akhtar.dev](https://github.com/Shoaib-Akhtarr)
