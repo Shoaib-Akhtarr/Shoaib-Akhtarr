@@ -2,7 +2,7 @@
 
 # Shoaib Akhtar
 
-### AI Engineer · Multi-Agent Systems · Production RAG & LLM Architectures
+### AI Engineer · Multi-Agent Systems · Production RAG & Computer Vision
 
 [![Email](https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyshoaib158@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-akhtar-133103300/)
@@ -10,7 +10,7 @@
 ![Location](https://img.shields.io/badge/Location-Gujrat,%20Pakistan-238636?style=for-the-badge)
 
 <p align="center">
-  <b>Designing autonomous multi-agent pipelines, hybrid dense-sparse RAG systems, and production AI services with deterministic grounding guardrails.</b>
+  <b>Designing autonomous multi-agent pipelines, hybrid dense-sparse RAG systems, real-time perception models, and production AI services with deterministic grounding guardrails.</b>
 </p>
 
 </div>
@@ -21,7 +21,8 @@
 
 - **Agentic AI & Orchestration:** Cyclic state machines, persistent memory, supervisor-worker topologies, self-correction & reflection graphs using **LangGraph**, **CrewAI**, and **LangChain**.
 - **Advanced Retrieval (RAG):** Hybrid retrieval (Dense vector embeddings + Sparse BM25Okapi + Reciprocal Rank Fusion), context-aware hierarchical chunking, vector stores (**Qdrant**, **ChromaDB**, **FAISS**).
-- **Factual Grounding & Guardrails:** Eliminating LLM hallucinations via automated metric cross-referencing and deterministic schema enforcement.
+- **Computer Vision & Perception:** Deep learning perception pipelines, real-time object detection, spatial 3D coordinate estimation, and semantic segmentation using **PyTorch** and **OpenCV**.
+- **ML Evaluation & Diagnostics:** F1-score optimization, stratified cross-validation, confusion matrix heatmaps, and interactive analytics studios via **Streamlit** and **Scikit-Learn**.
 - **Microservices & MLOps:** High-throughput asynchronous APIs with **FastAPI**, containerized runtimes with **Docker / Docker Compose**, and CI/CD automation via **GitHub Actions**.
 
 ---
@@ -34,6 +35,7 @@
 | **Agentic Frameworks** | `LangGraph`, `LangChain`, `CrewAI`, `AutoGen` |
 | **Vector DBs & Search** | `Qdrant`, `ChromaDB`, `FAISS`, `BM25Okapi`, `Reciprocal Rank Fusion (RRF)` |
 | **ML & Deep Learning** | `PyTorch`, `Hugging Face Transformers`, `Scikit-learn`, `PEFT / LoRA` |
+| **Vision & UI** | `OpenCV`, `Streamlit`, `Matplotlib`, `Seaborn` |
 | **API & Backend** | `FastAPI`, `Pydantic v2`, `Flask`, `PostgreSQL`, `Prisma ORM` |
 | **DevOps & MLOps** | `Docker`, `Docker Compose`, `GitHub Actions (CI/CD)`, `Linux`, `Git` |
 
@@ -47,18 +49,28 @@
 - **Stack:** `Python`, `LangGraph`, `FastAPI`, `Qdrant`, `Docker`, `GitHub Actions`
 
 #### 2. 🎯 [Hybrid RAG Outreach Studio & Benchmark](https://github.com/Shoaib-Akhtarr/hybrid-rag-outreach-studio)
-> *B2B Lead personalization engine with Hybrid Dense + Sparse RAG and deterministic factual grounding.*
+> *B2B Lead personalizer with Hybrid Dense + Sparse RAG and deterministic factual grounding.*
 - **Key Capabilities:** Combines `all-MiniLM-L6-v2` dense vectors with `BM25Okapi` sparse search via Reciprocal Rank Fusion ($k=60$). Achieves **100% Hit@1 (MRR: 1.000)** at **1.28ms retrieval latency** with zero numerical hallucinations.
 - **Stack:** `FastAPI`, `PyTorch / Transformers`, `Rank-BM25`, `Docker`, `pytest`
 
-#### 3. 🚀 [Autonomous Multi-Platform Job Application Suite](https://github.com/Shoaib-Akhtarr/Linkdin-Automator)
+#### 3. 👁️ [Real-Time Deep Learning Vision & Perception Service](https://github.com/Shoaib-Akhtarr/realtime-vision-perception-service)
+> *Real-time perception detection, continuous temporal tracking, and semantic segmentation inference API.*
+- **Key Capabilities:** Continuous video frame perception, bounding box detection with 3D camera-frame spatial coordinates, persistent object tracking, and drivable surface segmentation masks.
+- **Stack:** `Python`, `PyTorch`, `OpenCV`, `FastAPI`, `Docker`
+
+#### 4. 📊 [Interactive ML Model Evaluation & Analytics Studio](https://github.com/Shoaib-Akhtarr/model-evaluation-analytics-dashboard)
+> *Interactive tabular feature engineering and multi-model benchmark comparison dashboard.*
+- **Key Capabilities:** Multi-model evaluation (Random Forest, Gradient Boosting, Logistic Regression) with real-time accuracy, precision, recall, F1, ROC-AUC metrics, and diagnostic confusion matrix heatmaps.
+- **Stack:** `Python`, `Streamlit`, `Scikit-Learn`, `Pandas`, `Matplotlib`, `Seaborn`
+
+#### 5. 🚀 [Autonomous Multi-Platform Job Application Suite](https://github.com/Shoaib-Akhtarr/Linkdin-Automator)
 > *Autonomous browser engine and AI-driven CV optimization pipeline with stealth anti-bot mechanisms.*
-- **Key Capabilities:** Dual-gateway automation (LinkedIn Easy Apply & External ATS portals), Chrome DevTools Protocol (CDP), local AI keyword synthesizer and dynamic PDF rendering.
+- **Key Capabilities:** Dual-gateway automation (LinkedIn Easy Apply & External ATS portals), Chrome DevTools Protocol (CDP), local AI keyword synthesizer, and dynamic PDF rendering.
 - **Stack:** `Playwright`, `Chrome DevTools Protocol`, `Node.js`, `Electron`, `LLM APIs`
 
-#### 4. 🎙️ [AI Real-Time Meeting Copilot](https://github.com/Shoaib-Akhtarr/ai-meeting-copilot)
+#### 6. 🎙️ [AI Real-Time Meeting Copilot](https://github.com/Shoaib-Akhtarr/ai-meeting-copilot)
 > *Low-latency meeting assistant with continuous audio capture, streaming Groq LLM inference, and stealth HUD.*
-- **Key Capabilities:** Real-time audio stream listener, instant query answering, unobtrusive transparency overlay.
+- **Key Capabilities:** Real-time audio stream listener, instant query answering, and unobtrusive transparency overlay.
 - **Stack:** `Python`, `Groq API`, `PyAudio`, `Tkinter / Stealth GUI`
 
 ---
